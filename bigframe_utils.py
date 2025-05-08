@@ -21,7 +21,7 @@ class mock_data_generator:
 
         prompt = f"""Write Python code to generate a pandas DataFrame mimicking
         the characteristics of an existing DataFrame. The schema of the output
-        dataframe has to match the schema of the input DataFrame exactly.
+        DataFrame has to match the schema of the input DataFrame exactly.
 
         The characteristics of the existing DataFrame are as follows:
         {str(df.describe())}
