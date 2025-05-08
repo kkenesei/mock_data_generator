@@ -2,7 +2,7 @@ from bigframe_utils import mock_data_generator
 
 if __name__ == '__main__':
 
-    # Change my debug arguments to you own resources before running this...
+    # Change my debug arguments to your own resources before running this...
 
     generator = mock_data_generator(
         proj='sandbox-kkenesei',
